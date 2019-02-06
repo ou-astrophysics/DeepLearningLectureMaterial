@@ -1,4 +1,4 @@
-# Section-3
+# Section 3
 This repository contains the course materials and the class assignment for Section 3 of AST 5031 and AST 4031.
 
 ## Course materials
