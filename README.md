@@ -10,6 +10,6 @@ After that you will have to complete the Jupyter Notebook named `Section-5.ipynb
 The notebook itself contains detailed instructions and explains the problems you need to solve.
 
 ## Resources
-This repository contains a file named `ABELL_3266.fits`, which you will need for the excercises in this section. 
+This repository contains two files named `ABELL_3266.fits` and `ABELL_3266_contaminants.fits`, which you will need for the excercises in this section. 
 
 You may need to refer to the online documentation for `numpy`, `astropy`, `scipy` and `matplotlib`.
