@@ -5,7 +5,7 @@ This repository contains the course materials and the class assignment for Secti
 To complete this section you will need to use the material presented during the first four lectures of the course
 
 ## Assignment
-After that you will have to complete the Jupyter Notebook named `Section-5.ipynb` that this repository contains. You should write code to solve the problems it contains, committing your solutions as you go, and pushing the final result back to GitHub.
+After that you will have to complete the Jupyter Notebook named `Section-6.ipynb` that this repository contains. You should write code to solve the problems it contains, committing your solutions as you go, and pushing the final result back to GitHub.
 
 The notebook itself contains detailed instructions and explains the problems you need to solve.
 
