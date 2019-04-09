@@ -11,4 +11,6 @@ The notebook itself contains detailed instructions and explains the problems you
 
 ## Resources 
 
+This repository contains a file named `spectrum.dat`, which you will need for the excercises in this section.
+
 You may need to refer to the online documentation for `numpy`, `astropy`, `scipy`, `emcee` and `matplotlib`.
