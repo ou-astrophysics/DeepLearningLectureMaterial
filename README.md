@@ -10,4 +10,9 @@ After that you will have to complete the Jupyter Notebook named `Section-13.ipyn
 The notebook itself contains detailed instructions and explains the problems you need to solve.
 
 ## Resources 
-You may need to refer to the online documentation for `numpy`, `tensorflow` and `matplotlib`.
+
+This repository contains a three files named `helical.fits`, `starData.pkl`, and `galaxyData.pkl` which you will need for the excercises in this section.
+
+You will also find a copy of the code used in the `LiveDemo.ipynb` file that was used _Lecture 13_, which may be useful for getting started with the `tensorflow.keras` framework.
+
+You may need to refer to the online documentation for `numpy`, `astropy`, `scipy`, `tensorflow` and `matplotlib`.
